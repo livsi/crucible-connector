@@ -31,3 +31,7 @@ In __Preferences | Build, Execution, Deployment | Debugger__ set Allow unsigned 
 ## Usage
 
 __Main menu | Tools | External Tools | crucible-connector__
+
+## Todo
+
+* Realize port mapping for custom built-in IDE server port setting (workflow with multiple projects simultaneously)
