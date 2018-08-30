@@ -1,0 +1,8 @@
+{
+    "chmod": "0755",
+    "directories": [],
+    "files": ["index.php", "magnifier.svg"],
+    "main": "index.php",
+    "output": "bin/crucible-connector.phar",
+    "stub": false
+  }
