@@ -32,6 +32,12 @@ In __Preferences | Build, Execution, Deployment | Debugger__ set Allow unsigned 
 
 __Main menu | Tools | External Tools | crucible-connector__
 
+For quick view icon - you can add bookmarklet in you bookmarks panel
+
+```
+javascript:AJS.$(".ide-icon").show();
+```
+
 ## Todo
 
 * Realize port mapping for custom built-in IDE server port setting (workflow with multiple projects simultaneously)
